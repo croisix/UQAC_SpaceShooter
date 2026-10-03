@@ -1,0 +1,11 @@
+.idea/
+.vs/
+.vsconfig
+*.sln
+*.slnx
+
+# Dossiers temporaires et générés par Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
